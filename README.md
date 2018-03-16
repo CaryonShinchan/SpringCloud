@@ -8,3 +8,4 @@ SpringCloud学习
 4、断路器（Hystrix）<br>
 &emsp;4.1、断路器（Hystrix-Ribbon）<br>
 &emsp;4.2、断路器（Hystrix-Feign）<br>
+5、路由网关（zuul）<br>
