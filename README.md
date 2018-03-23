@@ -9,3 +9,4 @@ SpringCloud学习
 &emsp;4.1、断路器（Hystrix-Ribbon）<br>
 &emsp;4.2、断路器（Hystrix-Feign）<br>
 5、路由网关（zuul）<br>
+6、分布式配置中心（Spring Cloud Config）<br>
