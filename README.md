@@ -11,3 +11,4 @@ SpringCloud学习
 5、路由网关（zuul）<br>
 6、分布式配置中心（Spring Cloud Config）<br>
 7、高可用的分布式配置中心（Spring Cloud Config Eureka）<br>
+8、消息总线(Spring Cloud Bus)<br>
