@@ -1,0 +1,21 @@
+## 访问端口
+#server.port=8761
+## 主机名
+#eureka.instance.hostname=localhost
+## 实例是否在eureka服务器上注册自己的信息以供其他服务发现，设置为false，指定该程序不是客户端
+#eureka.client.register-with-eureka=false
+## 此客户端是否获取eureka服务器注册表上的注册信息,设置为false，证明该程序不是客户端
+#eureka.client.fetch-registry=false
+## 访问地址
+#eureka.client.service-url.defaultZone=http://${eureka.instance.hostname}:${server.port}/eureka/
+
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
