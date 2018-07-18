@@ -14,3 +14,5 @@ SpringCloud学习
 8、高可用的分布式配置中心（Spring Cloud Config Eureka）<br>
 9、消息总线(Spring Cloud Bus)<br>
 10、服务链路追踪（Spring Cloud Sleuth）<br>
+
+12、服务注册Consul<br>
